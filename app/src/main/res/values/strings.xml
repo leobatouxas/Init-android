@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Init</string>
+    <string name="fraistaxi">FraisTaxi</string>
+    <string name="frais_train">Frais Train</string>
+    <string name="frais_saisie">Frais Saisie</string>
+    <string name="frais_taxi">frais taxi</string>
+    <string name="frais_train_label">frais train</string>
+    <string name="frais_saisie_label">frais saisie</string>
+    <string name="valider">Valider</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login">Login</string>
+    <string name="textview">TextView</string>
+    <string name="designation">Designation</string>
+    <string name="reference">Reference</string>
+    <string name="prix">Prix</string>
+    <string name="saisieproduit">SaisieProduit</string>
+    <string name="affichage_produit">Affichage Produit</string>
+    <string name="afficher">Afficher</string>
+    <string name="stock">Stock</string>
+</resources>
